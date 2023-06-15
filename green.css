@@ -1,7 +1,7 @@
 /* @theme green */
 
 @import 'gaia';
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 :root {
@@ -71,7 +71,12 @@ header {
   background-color: var(--color-highlight);
   color: var(--color-background);
   font-size: 1em;
+  font-family: 'Nunito', sans-serif;
   font-weight: 700;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
 }
 
 blockquote {

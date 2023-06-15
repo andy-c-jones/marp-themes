@@ -71,12 +71,12 @@ header {
   background-color: var(--color-highlight);
   color: var(--color-background);
   font-size: 1em;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
 }
 
 h1 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 blockquote {
